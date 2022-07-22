@@ -1,1 +1,1 @@
-# Comunica-esDigitais
+# Projeto de Comunicações Digitais
